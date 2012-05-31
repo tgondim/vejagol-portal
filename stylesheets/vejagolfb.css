@@ -1,0 +1,19 @@
+/*
+  title: vejagolfb css
+*/
+
+
+/* =global elements
+--------------------------------------------- */
+.menu { float: left; width: 50%; }
+.conteudo { float: right; width: 50%; }
+
+.tweet { float: left; width: 20%; }
+.like { float: right; width: 80%; margin-bottom: 5px;}
+
+.clear { clear: both; }
+
+.pagina { float: center; width: 100%;}
+
+.video-overlay { background: #000000 url(dark-hive/images/ui-bg_flat_50_5c5c5c_40x100.png) 50% 50% repeat-x;  margin-top: 1px;}
+.ui-button-text-custom { display: block; line-height: 1.0; font-family: Verdana, Arial, sans-serif; font-size: 1.0em; }
